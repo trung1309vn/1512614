@@ -6,3 +6,8 @@ Input: `/SinhVien.csv`
 
 Output: `/Profiles`
 
+## Người thực hiện
+Nguyễn Lý Phước Trung
+
+1512614
+
