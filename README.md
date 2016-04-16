@@ -7,7 +7,7 @@ Input: `/SinhVien.csv`
 Output: `/Profiles`
 
 ## Người thực hiện
-Nguyễn Lý Phước Trung
+Tên: Nguyễn Lý Phước Trung
 
-1512614
+MSSV: 1512614
 
